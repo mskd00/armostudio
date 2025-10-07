@@ -47,7 +47,10 @@ export default function Header() {
             <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
 
                 <div className="flex items-center space-x-2 rtl:space-x-reverse">
-                    <span className="text-yellow-500 font-bold text-xl">آرمو</span>
+                    <img src="/persianLogoType.png" alt="Armo Studio Logo" className="h-10" />
+
+
+
                 </div>
 
 
