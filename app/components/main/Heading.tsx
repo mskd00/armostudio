@@ -13,11 +13,11 @@ const AdvertisementPartner = () => {
                 <div className="flex justify-start gap-4">
                     <Button
                         variant="filled"
-
                         size="md"
                         className="font-medium"
                     >
                         شروع همکاری
+
                     </Button>
 
                     <Button
